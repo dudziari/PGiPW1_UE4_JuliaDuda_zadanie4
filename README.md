@@ -1,2 +1,2 @@
-# PGiPW1_UE4_JuliaDuda_zadanie4
+# PGiPW2_UE4_JuliaDuda_zadanie4
 FPS
