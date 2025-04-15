@@ -1594,3 +1594,1187 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.15-09.10.23:222][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 408.102448
 [2025.04.15-09.10.24:221][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.15-09.10.24:221][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 408.768860, Update Interval: 335.521729
+[2025.04.15-09.12.27:296][232]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.12.27:296][232]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.12.27:297][232]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_1
+[2025.04.15-09.12.27:297][232]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_1
+[2025.04.15-09.12.28:373][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.15-09.12.28:379][324]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.04.15-09.12.28:387][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.12.28:387][324]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.12.28:401][324]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_3
+[2025.04.15-09.12.28:402][324]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_3
+[2025.04.15-09.12.30:466][518]Cmd: TRANSACTION UNDO
+[2025.04.15-09.12.30:466][518]LogEditorTransaction: Undo Place Objects
+[2025.04.15-09.14.23:434][622]Cmd: DELETE
+[2025.04.15-09.14.23:434][622]Cmd: ACTOR DELETE
+[2025.04.15-09.14.23:541][622]LogEditorActor: Deleted Actor: SkyLight
+[2025.04.15-09.14.23:562][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.15-09.14.23:565][622]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2025.04.15-09.14.26:499][820]Cmd: DELETE
+[2025.04.15-09.14.26:499][820]Cmd: ACTOR DELETE
+[2025.04.15-09.14.26:525][820]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2025.04.15-09.14.26:536][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.15-09.14.26:538][820]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.04.15-09.14.27:928][918]Cmd: DELETE
+[2025.04.15-09.14.27:928][918]Cmd: ACTOR DELETE
+[2025.04.15-09.14.27:952][918]LogEditorActor: Deleted Actor: PointLight
+[2025.04.15-09.14.27:965][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.15-09.14.27:966][918]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.04.15-09.14.29:345][ 12]Cmd: DELETE
+[2025.04.15-09.14.29:345][ 12]Cmd: ACTOR DELETE
+[2025.04.15-09.14.29:367][ 12]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.04.15-09.14.29:379][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.15-09.14.29:381][ 12]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.04.15-09.16.02:523][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 747.404846
+[2025.04.15-09.16.02:704][ 57]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.16.02:704][ 57]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 747.571899, Update Interval: 321.707825
+[2025.04.15-09.16.28:720][ 70]Cmd: DELETE
+[2025.04.15-09.16.28:720][ 70]Cmd: ACTOR DELETE
+[2025.04.15-09.16.28:744][ 70]LogEditorActor: Deleted Actor: SkyLight
+[2025.04.15-09.16.28:745][ 70]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2025.04.15-09.16.28:746][ 70]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2025.04.15-09.16.28:746][ 70]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2025.04.15-09.16.28:747][ 70]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.04.15-09.16.28:759][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.15-09.16.28:764][ 70]LogEditorActor: Deleted 5 Actors (0.044 secs)
+[2025.04.15-09.16.49:254][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.04.15-09.16.49:254][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.04.15-09.16.49:255][713]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.DirectionalLight_0
+[2025.04.15-09.16.49:255][713]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.DirectionalLight_0
+[2025.04.15-09.16.51:047][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.15-09.16.51:050][850]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.04.15-09.16.51:058][850]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.04.15-09.16.51:058][850]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.04.15-09.16.51:061][850]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.DirectionalLight_2
+[2025.04.15-09.16.51:062][850]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.DirectionalLight_2
+[2025.04.15-09.18.07:031][962]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSceneOutlinerTreeView [SSceneOutliner.cpp(265)].
+[2025.04.15-09.18.12:888][962]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.15-09.19.36:818][619]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.19.39:694][828]LogSlate: Took 0.009135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.15-09.19.46:810][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.15-09.19.58:217][307]Cmd: DELETE
+[2025.04.15-09.19.58:217][307]Cmd: ACTOR DELETE
+[2025.04.15-09.19.58:246][307]LogEditorActor: Deleted Actor: PostProcessVolume
+[2025.04.15-09.19.58:266][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.15-09.19.58:273][307]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2025.04.15-09.20.04:230][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.04.15-09.20.04:230][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.04.15-09.20.04:231][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.PostProcessVolume_0
+[2025.04.15-09.20.04:244][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.PostProcessVolume_0
+[2025.04.15-09.20.05:028][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.15-09.20.05:031][909]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.04.15-09.20.05:038][909]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.04.15-09.20.05:038][909]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.04.15-09.20.05:041][909]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.PostProcessVolume_2
+[2025.04.15-09.20.05:042][909]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.PostProcessVolume_2
+[2025.04.15-09.20.46:005][624]Cmd: TRANSACTION UNDO
+[2025.04.15-09.20.46:005][624]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.15-09.20.46:527][632]Cmd: TRANSACTION UNDO
+[2025.04.15-09.20.46:527][632]LogEditorTransaction: Undo Clicking on Actors
+[2025.04.15-09.20.46:984][651]Cmd: TRANSACTION UNDO
+[2025.04.15-09.20.46:984][651]LogEditorTransaction: Undo Rename Actor
+[2025.04.15-09.20.48:509][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.15-09.21.29:978][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1074.862915
+[2025.04.15-09.21.30:132][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.21.30:132][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1075.006592, Update Interval: 357.449280
+[2025.04.15-09.22.36:995][  4]Cmd: POLY SELECT ADJACENT WALLS
+[2025.04.15-09.23.09:512][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.23.09:512][ 54]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.23.09:513][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_4
+[2025.04.15-09.23.09:514][ 54]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_4
+[2025.04.15-09.23.10:561][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.15-09.23.10:566][142]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.04.15-09.23.10:573][142]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.23.10:573][142]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.04.15-09.23.10:576][142]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_5
+[2025.04.15-09.23.10:577][142]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyAtmosphere_5
+[2025.04.15-09.24.17:051][145]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.04.15-09.24.17:060][145]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.04.15-09.24.17:060][145]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.04.15-09.24.17:068][145]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.04.15-09.24.41:227][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.15-09.24.46:890][712]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.24.46:979][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.04.15-09.24.46:979][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.04.15-09.24.46:997][712]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Sky_Sphere_C_0
+[2025.04.15-09.24.46:998][712]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Sky_Sphere_C_0
+[2025.04.15-09.24.47:003][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.15-09.24.49:378][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.15-09.24.49:395][895]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.04.15-09.24.49:402][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.04.15-09.24.49:402][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2025.04.15-09.24.49:405][895]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Sky_Sphere_C_1
+[2025.04.15-09.24.49:407][895]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Sky_Sphere_C_1
+[2025.04.15-09.25.15:527][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-09.25.15:564][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.15-09.25.15:588][119]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.15-09.25.15:588][119]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.15-09.25.15:588][119]LogPlayLevel: Creating play world package: /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.25.15:674][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086154s)
+[2025.04.15-09.25.15:674][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod to /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod (0.086197s)
+[2025.04.15-09.25.15:695][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.15-09.25.15:697][119]LogChaosDD: Creating Chaos Debug Draw Scene for world LowerSector_Mod
+[2025.04.15-09.25.15:699][119]LogPlayLevel: PIE: World Init took: (0.001929s)
+[2025.04.15-09.25.15:700][119]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.15-09.25.15:700][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-09.25.15:700][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-09.25.15:700][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-09.25.15:700][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-09.25.15:701][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.15-09.25.15:701][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-09.25.15:701][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.15-09.25.15:701][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-09.25.15:701][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-09.25.15:701][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-09.25.15:701][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-09.25.15:703][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-09.25.15:730][119]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.04.15-09.25.15:730][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-09.25.15:730][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-09.25.15:730][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-09.25.15:731][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.15-09.25.15:731][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.15-09.25.15:733][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.15-09.25.15:733][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.15-09.25.15:733][119]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.15-09.25.15:733][119]LogAudio: Display: Audio Device (ID: 2) registered with world 'LowerSector_Mod'.
+[2025.04.15-09.25.15:733][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.15-09.25.15:736][119]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.15-09.25.15:780][119]LogWorld: Bringing World /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod up for play (max tick rate 0) at 2025.04.15-11.25.15
+[2025.04.15-09.25.15:805][119]LogWorld: Bringing up level for play took: 0.068164
+[2025.04.15-09.25.15:808][119]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.04.15-09.25.15:899][119]PIE: Server logged in
+[2025.04.15-09.25.15:900][119]PIE: Play in editor total start time 0,362 seconds.
+[2025.04.15-09.25.18:696][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.25.18:696][310]LogWorld: BeginTearingDown for /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.25.18:697][310]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-09.25.18:708][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.25.18:712][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-09.25.18:717][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.25.18:731][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.15-09.25.18:735][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.15-09.25.18:754][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.15-09.25.18:756][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.15-09.25.18:760][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.25.18:804][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.15-09.25.18:872][311]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Total job queries 433, among them cache hits 111 (25.64%), DDC hits 293 (67.67%), Duplicates 6 (1.39%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Tracking 316 distinct input hashes that result in 253 distinct outputs (80.06%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: RAM used: 153,60 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Shaders Compiled: 23
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Average time worker was idle: 354.67 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 2.55 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Job execution time: average 1.78 s, max 2.94 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Job life time (pending + execution): average 2.04 s, max 3.47
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Shader code size: average 8,674 KiB, min 4,125 KiB, max 16,207 KiB
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.60 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Average processing rate: 1.98 jobs/sec
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Total thread time: 17,342 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Total thread preprocess time: 6,881 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Percentage time preprocessing: 39.68%
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.22 sec, max 1.35 sec, min 0.96 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.79 sec, max 0.93 sec, min 0.58 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.55 sec, max 0.64 sec, min 0.42 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.50 sec, max 0.57 sec, min 0.41 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.11% of total time (compiled    4 times, average 1.22 sec, max 1.35 sec, min 0.96 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.30% of total time (compiled    4 times, average 0.79 sec, max 0.93 sec, min 0.58 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.78% of total time (compiled    4 times, average 0.55 sec, max 0.64 sec, min 0.42 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.47% of total time (compiled    4 times, average 0.50 sec, max 0.57 sec, min 0.41 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.13% of total time (compiled    4 times, average 0.48 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Materials Translated:    181
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Material Total Translate Time: 1.35 s
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Material Translation Only: 0.17 s (13%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: Material Cache Hits: 14 (8%)
+[2025.04.15-09.25.19:243][336]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.25.46:854][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.15-09.26.25:640][890]Cmd: DELETE
+[2025.04.15-09.26.25:640][890]Cmd: ACTOR DELETE
+[2025.04.15-09.26.25:660][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.15-09.26.25:672][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.15-09.26.25:677][890]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.04.15-09.26.30:090][342]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.15-09.27.19:862][592]Cmd: TRANSACTION UNDO
+[2025.04.15-09.27.19:862][592]LogEditorTransaction: Undo Group Selected
+[2025.04.15-09.27.33:333][646]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.15-09.27.33:333][646]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.04.15-09.27.39:606][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1444.490356
+[2025.04.15-09.27.39:784][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.27.39:784][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1444.658203, Update Interval: 334.741669
+[2025.04.15-09.29.02:946][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.15-09.29.03:455][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LowerSector_Mod/Maps/LowerSector_Mod_Auto1
+[2025.04.15-09.29.03:455][332]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/LowerSector_Mod_Auto1BADBD7E64956EEAD4C0B10A64E45C68F.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/Autosaves/Game/LowerSector_Mod/Maps/LowerSector_Mod_Auto1.umap'
+[2025.04.15-09.29.03:493][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LowerSector_Mod/Maps/LowerSector_Mod' took 0.565
+[2025.04.15-09.29.03:494][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.565
+[2025.04.15-09.29.04:934][449]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.04:934][449]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.04:936][449]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_1
+[2025.04.15-09.29.04:936][449]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_1
+[2025.04.15-09.29.07:561][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.15-09.29.07:562][666]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.04.15-09.29.07:577][666]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.07:577][666]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.07:579][666]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_3
+[2025.04.15-09.29.07:580][666]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_3
+[2025.04.15-09.29.23:355][995]Cmd: TRANSACTION UNDO
+[2025.04.15-09.29.23:355][995]LogEditorTransaction: Undo Place Objects
+[2025.04.15-09.29.24:155][ 21]Cmd: TRANSACTION UNDO
+[2025.04.15-09.29.24:155][ 21]LogEditorTransaction: Undo Edit Sun Height
+[2025.04.15-09.29.26:419][200]Cmd: TRANSACTION REDO
+[2025.04.15-09.29.26:419][200]LogEditorTransaction: Redo Edit Sun Height
+[2025.04.15-09.29.26:721][219]Cmd: TRANSACTION REDO
+[2025.04.15-09.29.26:721][219]LogEditorTransaction: Redo Place Objects
+[2025.04.15-09.29.28:398][338]Cmd: TRANSACTION UNDO
+[2025.04.15-09.29.28:398][338]LogEditorTransaction: Undo Place Objects
+[2025.04.15-09.29.30:315][452]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.30:315][452]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.30:316][452]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_4
+[2025.04.15-09.29.30:317][452]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_4
+[2025.04.15-09.29.31:144][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.15-09.29.31:148][501]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.04.15-09.29.31:163][501]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.31:163][501]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.04.15-09.29.31:166][501]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_5
+[2025.04.15-09.29.31:167][501]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.SkyLight_5
+[2025.04.15-09.30.18:824][594]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.30.30:523][533]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.30.37:722][145]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.31.09:836][786]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.31.21:677][757]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.31.32:024][684]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.33.32:308][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1797.183960
+[2025.04.15-09.33.32:472][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.33.32:472][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1797.335449, Update Interval: 317.168488
+[2025.04.15-09.35.04:585][413]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-09.35.19:841][740]Cmd: SELECT NONE
+[2025.04.15-09.35.43:609][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.15-09.35.43:643][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.35.43:739][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.15-09.35.44:200][888]LogSavePackage: Moving output files for package: /Game/LowerSector_Mod/Maps/LowerSector_Mod
+[2025.04.15-09.35.44:200][888]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/LowerSector_Mod41031C34496B476F6937A0A462485B0F.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/LowerSector_Mod/Maps/LowerSector_Mod.umap'
+[2025.04.15-09.35.44:222][888]LogFileHelpers: All files are already saved.
+[2025.04.15-09.35.44:222][888]LogFileHelpers: Saving map 'LowerSector_Mod' took 0.525
+[2025.04.15-09.35.44:229][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 585.072 ms
+[2025.04.15-09.35.44:297][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-09.35.44:297][888]LogContentValidation: Enabled validators:
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.35.44:297][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.35.44:298][888]AssetCheck: /Game/LowerSector_Mod/Maps/LowerSector_Mod Validating asset
+[2025.04.15-09.37.58:926][419]LogFab: Display: Asset Type = glb
+[2025.04.15-09.37.58:926][419]LogFab: Display: Is Quixel = 0
+[2025.04.15-09.37.59:891][464]LogStreaming: Display: FlushAsyncLoading(418): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.00:207][464]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.04.15-09.38.00:207][464]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/student/AppData/Local/Temp/FabLibrary/baa3495e-551a-41a9-a552-47dd6be824a3/police_drone.glb]
+[2025.04.15-09.38.00:312][472]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.00:531][496]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.00:542][497]LogStreaming: Display: FlushAsyncLoading(461): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.00:572][501]LogStreaming: Display: FlushAsyncLoading(462): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.00:742][508]LogTexture: Display: Building textures: /Game/Fab/Police_Drone/police_drone_texture_0.police_drone_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.15-09.38.00:742][508]LogTexture: Display: Building textures: /Game/Fab/Police_Drone/police_drone_texture_2.police_drone_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.15-09.38.00:742][508]LogTexture: Display: Building textures: /Game/Fab/Police_Drone/police_drone_texture_1.police_drone_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.04.15-09.38.01:222][515]LogStaticMesh: Display: Building static mesh police_drone (Required Memory Estimate: 16.011989 MB)...
+[2025.04.15-09.38.01:355][529]LogStaticMesh: Built static mesh [0.13s] /Game/Fab/Police_Drone/police_drone.police_drone
+[2025.04.15-09.38.01:864][532]LogInterchangeEngine: Display: Interchange import completed [C:/Users/student/App...a9-a552-47dd6be824a3/police_drone.glb]
+[2025.04.15-09.38.38:804][279]LogStreaming: Display: FlushAsyncLoading(463): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.38:804][279]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin (0x7B4CFD6818D8E6A8) - The package to load does not exist on disk or in the loader
+[2025.04.15-09.38.38:805][279]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2025.04.15-09.38.39:116][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.15-09.38.39:239][280]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.15-09.38.39:267][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.04.15-09.38.39:403][286]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.39:488][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.04.15-09.38.39:509][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.04.15-09.38.39:536][293]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.04.15-09.38.41:790][493]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.43:215][604]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.44:814][729]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.38.45:082][744]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.39.03:271][346]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.39.27:617][719]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.15-09.39.27:624][719]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.15-09.39.27:632][720]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.15-09.39.32:572][185]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.04.15-09.39.32:572][185]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.15-09.39.40:841][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2165.713379
+[2025.04.15-09.39.40:993][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.39.40:993][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2165.857178, Update Interval: 354.433411
+[2025.04.15-09.40.02:879][131]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.15-09.40.02:887][131]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.15-09.40.02:892][131]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.15-09.40.02:912][133]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.15-09.40.15:946][351]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Soldier_01
+[2025.04.15-09.40.15:967][351]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.15-09.40.17:806][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01
+[2025.04.15-09.40.17:817][529]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.15-09.40.18:204][529]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.40.19:347][529]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.04.15-09.40.19:348][529]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Total job queries 466, among them cache hits 111 (23.82%), DDC hits 293 (62.88%), Duplicates 6 (1.29%)
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Tracking 349 distinct input hashes that result in 275 distinct outputs (78.80%)
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: RAM used: 161,20 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Shaders Compiled: 56
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Jobs assigned 56, completed 56 (100%)
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Average time worker was idle: 245.94 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Time job spent in pending queue: average 0.40 s, longest 2.93 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 3.37 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 3.87
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Shader code size: average 8,171 KiB, min 2,934 KiB, max 16,207 KiB
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.96 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Total thread time: 40,644 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Total thread preprocess time: 7,372 s
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Percentage time preprocessing: 18.14%
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Effective parallelization: 1.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.04.15-09.40.19:809][529]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.23 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.76 sec, max 0.95 sec, min 0.58 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    9 times, average 0.56 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.28% of total time (compiled    9 times, average 1.23 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.93% of total time (compiled    9 times, average 0.76 sec, max 0.95 sec, min 0.58 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.32% of total time (compiled    9 times, average 0.56 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.58% of total time (compiled    9 times, average 0.48 sec, max 0.57 sec, min 0.41 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.33% of total time (compiled    9 times, average 0.47 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Materials Translated:    220
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Material Total Translate Time: 1.53 s
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Material Translation Only: 0.32 s (21%)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.04.15-09.40.19:810][529]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.40.32:198][253]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.15-09.40.32:209][254]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.15-09.40.57:468][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.15-09.41.01:765][506]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2025.04.15-09.44.31:556][535]LogSlate: Window 'BP_Soldier_01' being destroyed
+[2025.04.15-09.44.34:420][786]LogSlate: Window 'BP_Soldier_01' being destroyed
+[2025.04.15-09.45.25:894][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.15-09.45.25:900][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.45.25:955][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/police_drone_texture_0] ([1] browsable assets)...
+[2025.04.15-09.45.25:958][644]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Police_Drone/police_drone_texture_0.police_drone_texture_0]
+[2025.04.15-09.45.25:958][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/police_drone_texture_0]
+[2025.04.15-09.45.26:140][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/police_drone_texture_0
+[2025.04.15-09.45.26:140][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/police_drone_texture_0266E38664665510C9D77D7817775614D.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/police_drone_texture_0.uasset'
+[2025.04.15-09.45.26:144][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/police_drone_texture_1] ([1] browsable assets)...
+[2025.04.15-09.45.26:145][644]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Police_Drone/police_drone_texture_1.police_drone_texture_1]
+[2025.04.15-09.45.26:145][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/police_drone_texture_1]
+[2025.04.15-09.45.26:225][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/police_drone_texture_1
+[2025.04.15-09.45.26:225][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/police_drone_texture_160F9DA5B492AD6EE75C4B486AE8F193B.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/police_drone_texture_1.uasset'
+[2025.04.15-09.45.26:226][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/police_drone_texture_2] ([1] browsable assets)...
+[2025.04.15-09.45.26:228][644]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Police_Drone/police_drone_texture_2.police_drone_texture_2]
+[2025.04.15-09.45.26:228][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/police_drone_texture_2]
+[2025.04.15-09.45.26:297][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/police_drone_texture_2
+[2025.04.15-09.45.26:297][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/police_drone_texture_231BAA7D94F19E7C2D62312A1FABDD0D3.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/police_drone_texture_2.uasset'
+[2025.04.15-09.45.26:298][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/smart_metal_v2_03] ([1] browsable assets)...
+[2025.04.15-09.45.26:308][644]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Police_Drone/smart_metal_v2_03.smart_metal_v2_03]
+[2025.04.15-09.45.26:308][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/smart_metal_v2_03]
+[2025.04.15-09.45.26:308][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/smart_metal_v2_03" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/smart_metal_v2_03.uasset" SILENT=true
+[2025.04.15-09.45.26:313][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/smart_metal_v2_03
+[2025.04.15-09.45.26:313][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/smart_metal_v2_03821DFEE14990051B085271A6B38D456F.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/smart_metal_v2_03.uasset'
+[2025.04.15-09.45.26:314][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/plastic_03] ([1] browsable assets)...
+[2025.04.15-09.45.26:320][644]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Police_Drone/plastic_03.plastic_03]
+[2025.04.15-09.45.26:320][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/plastic_03]
+[2025.04.15-09.45.26:320][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/plastic_03" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/plastic_03.uasset" SILENT=true
+[2025.04.15-09.45.26:325][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/plastic_03
+[2025.04.15-09.45.26:325][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/plastic_037A58FECB42A1E0B7BB8B1198DEC8C491.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/plastic_03.uasset'
+[2025.04.15-09.45.26:326][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/pngwing_com] ([1] browsable assets)...
+[2025.04.15-09.45.26:332][644]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Police_Drone/pngwing_com.pngwing_com]
+[2025.04.15-09.45.26:332][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/pngwing_com]
+[2025.04.15-09.45.26:332][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/pngwing_com" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/pngwing_com.uasset" SILENT=true
+[2025.04.15-09.45.26:337][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/pngwing_com
+[2025.04.15-09.45.26:338][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/pngwing_com6DDC5E3A4459992377B448B3B8F907F0.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/pngwing_com.uasset'
+[2025.04.15-09.45.26:339][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/Lights] ([1] browsable assets)...
+[2025.04.15-09.45.26:345][644]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Police_Drone/Lights.Lights]
+[2025.04.15-09.45.26:345][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/Lights]
+[2025.04.15-09.45.26:345][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/Lights" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/Lights.uasset" SILENT=true
+[2025.04.15-09.45.26:350][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/Lights
+[2025.04.15-09.45.26:350][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/LightsADCA06AE43ADD905E208FCB15111A8D9.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/Lights.uasset'
+[2025.04.15-09.45.26:351][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/smart_metal_v2_03_001] ([1] browsable assets)...
+[2025.04.15-09.45.26:357][644]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Police_Drone/smart_metal_v2_03_001.smart_metal_v2_03_001]
+[2025.04.15-09.45.26:357][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/smart_metal_v2_03_001]
+[2025.04.15-09.45.26:357][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/smart_metal_v2_03_001" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/smart_metal_v2_03_001.uasset" SILENT=true
+[2025.04.15-09.45.26:362][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/smart_metal_v2_03_001
+[2025.04.15-09.45.26:362][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/smart_metal_v2_03_00133B7D53C41734D4F6FFC05A973DFEC6D.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/smart_metal_v2_03_001.uasset'
+[2025.04.15-09.45.26:364][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Police_Drone/police_drone] ([1] browsable assets)...
+[2025.04.15-09.45.26:371][644]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Police_Drone/police_drone.police_drone]
+[2025.04.15-09.45.26:371][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Police_Drone/police_drone]
+[2025.04.15-09.45.26:371][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Police_Drone/police_drone" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/police_drone.uasset" SILENT=true
+[2025.04.15-09.45.26:382][644]LogSavePackage: Moving output files for package: /Game/Fab/Police_Drone/police_drone
+[2025.04.15-09.45.26:382][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/police_drone7ED5EB464462F89A7C1F35A684C6834F.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Fab/Police_Drone/police_drone.uasset'
+[2025.04.15-09.45.26:384][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Soldier_01] ([2] browsable assets)...
+[2025.04.15-09.45.26:384][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Soldier_01]
+[2025.04.15-09.45.26:384][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Soldier_01" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset" SILENT=true
+[2025.04.15-09.45.26:412][644]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Soldier_01
+[2025.04.15-09.45.26:412][644]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/BP_Soldier_015776A0AA4DF38C426EAAD7B550D5FC75.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset'
+[2025.04.15-09.45.26:421][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 521.008 ms (total: 1.10 sec)
+[2025.04.15-09.45.26:470][644]LogContentValidation: Display: Starting to validate 10 assets
+[2025.04.15-09.45.26:470][644]LogContentValidation: Enabled validators:
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.45.26:470][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/police_drone_texture_0 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/police_drone_texture_1 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/police_drone_texture_2 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/smart_metal_v2_03 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/plastic_03 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/pngwing_com Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/Lights Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/smart_metal_v2_03_001 Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Fab/Police_Drone/police_drone Validating asset
+[2025.04.15-09.45.26:470][644]AssetCheck: /Game/Blueprints/BP_Soldier_01 Validating asset
+[2025.04.15-09.45.32:413][268]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.45.32:413][268]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) - Skipping non mounted imported package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Cloths_4K (0xE779F04595F3CE20)
+[2025.04.15-09.45.32:414][268]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) - Skipping non mounted imported package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Gloves_4K (0x30EC090DAC4A8507)
+[2025.04.15-09.45.32:414][268]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) - Skipping non mounted imported package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Hands_Tanned_4K (0xFEAEF1D9C6B03A6D)
+[2025.04.15-09.45.32:414][268]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) - Skipping non mounted imported package /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton (0x34E4718CC2896943)
+[2025.04.15-09.45.32:414][268]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) /Game/Characters/Arms/Mesh/Mesh_Arms (0x2712DC449036F838) - Skipping non mounted imported package /Game/Assets/Characters/Arms/Mesh/PhysicsAsset_Arms (0xB7A6EA79D542B6B)
+[2025.04.15-09.45.32:426][268]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2025.04.15-09.45.32:442][268]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Mesh_Arms) ...
+[2025.04.15-09.45.32:496][268]LogSkeletalMesh: Building Skeletal Mesh Mesh_Arms...
+[2025.04.15-09.45.32:841][268]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2025.04.15-09.45.36:160][268]LogSlate: Window 'Message' being destroyed
+[2025.04.15-09.45.36:165][268]Message dialog closed, result: No, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
+[2025.04.15-09.45.36:316][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.15-09.45.36:330][268]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms has no skeleton. This needs to fixed before an animation can be set
+[2025.04.15-09.45.50:788][268]LogSlate: Window 'Choose Skeleton' being destroyed
+[2025.04.15-09.45.50:985][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.04.15-09.45.51:068][268]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.04.15-09.45.51:075][268]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.04.15-09.45.51:157][268]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.04.15-09.45.51:158][268]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.04.15-09.45.51:176][268]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Assets/Gun/Gun (0x93356E975732D328) - The package to load does not exist on disk or in the loader
+[2025.04.15-09.45.51:176][268]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Gun/Gun.Gun'
+[2025.04.15-09.45.51:190][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.45.52:491][268]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Cloths_4K which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.45.52:491][268]LoadErrors: Warning: While trying to load package /Game/Characters/Arms/Mesh/Mesh_Arms, a dependent package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Cloths_4K was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Cloths_4K has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Cloths_4K.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.45.52:491][268]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Gloves_4K which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.45.52:491][268]LoadErrors: Warning: While trying to load package /Game/Characters/Arms/Mesh/Mesh_Arms, a dependent package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Gloves_4K was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Gloves_4K has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Gloves_4K.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.45.52:491][268]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Hands_Tanned_4K which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.45.52:491][268]LoadErrors: Warning: While trying to load package /Game/Characters/Arms/Mesh/Mesh_Arms, a dependent package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Hands_Tanned_4K was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Hands_Tanned_4K has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Arms_Textures_And_Mats/Materials/M_Hands_Tanned_4K.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.45.52:491][268]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.45.52:492][268]LoadErrors: Warning: While trying to load package /Game/Characters/Arms/Mesh/Mesh_Arms, a dependent package /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.45.52:492][268]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Mesh/PhysicsAsset_Arms which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.45.52:492][268]LoadErrors: Warning: While trying to load package /Game/Characters/Arms/Mesh/Mesh_Arms, a dependent package /Game/Assets/Characters/Arms/Mesh/PhysicsAsset_Arms was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Characters/Arms/Mesh/PhysicsAsset_Arms has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Assets/Characters/Arms/Mesh/PhysicsAsset_Arms.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Total job queries 480, among them cache hits 115 (23.96%), DDC hits 293 (61.04%), Duplicates 6 (1.25%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Tracking 359 distinct input hashes that result in 281 distinct outputs (78.27%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: RAM used: 162,98 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Shaders Compiled: 66
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Average time worker was idle: 264.61 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 2.93 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 3.37 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Job life time (pending + execution): average 2.09 s, max 3.92
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Shader code size: average 8,051 KiB, min 2,934 KiB, max 16,207 KiB
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.89 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Average processing rate: 2.65 jobs/sec
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Total thread time: 46,898 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Total thread preprocess time: 7,572 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Percentage time preprocessing: 16.15%
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.21 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.75 sec, max 0.95 sec, min 0.58 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled   11 times, average 0.54 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.34% of total time (compiled   11 times, average 1.21 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.54% of total time (compiled   11 times, average 0.75 sec, max 0.95 sec, min 0.58 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.74% of total time (compiled   11 times, average 0.54 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.05% of total time (compiled   11 times, average 0.47 sec, max 0.57 sec, min 0.41 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.78% of total time (compiled   11 times, average 0.46 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Materials Translated:    221
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Material Total Translate Time: 1.56 s
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Material Translation Only: 0.32 s (20%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.04.15-09.46.20:111][685]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.46.28:746][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.15-09.46.28:748][411]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LowerSector_Mod/Maps/LowerSector_Mod' took 0.043
+[2025.04.15-09.46.28:749][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Arms/Mesh/Mesh_Arms] ([1] browsable assets)...
+[2025.04.15-09.46.28:797][411]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms]
+[2025.04.15-09.46.28:797][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Arms/Mesh/Mesh_Arms]
+[2025.04.15-09.46.28:831][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Arms/Mesh/Mesh_Arms_Auto2
+[2025.04.15-09.46.28:831][411]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/Mesh_Arms_Auto22109E0704E3CE0355655059D966BDF58.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/Autosaves/Game/Characters/Arms/Mesh/Mesh_Arms_Auto2.uasset'
+[2025.04.15-09.46.28:832][411]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.46.28:832][411]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms (0xE0534D46B6D114EF) - The package to load does not exist on disk or in the loader
+[2025.04.15-09.46.28:832][411]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2025.04.15-09.46.28:833][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2025.04.15-09.46.28:833][411]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.15-09.46.28:846][411]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton]
+[2025.04.15-09.46.28:846][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton]
+[2025.04.15-09.46.28:852][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto2
+[2025.04.15-09.46.28:853][411]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/SK_Mannequin_Arms_Skeleton_Auto24F2F21B5454AACD28EF440B819CA3DC6.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/Autosaves/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto2.uasset'
+[2025.04.15-09.46.28:853][411]LogFileHelpers: Auto-saving content packages took 0.105
+[2025.04.15-09.46.37:782][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2582.645508
+[2025.04.15-09.46.37:942][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.46.37:942][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2582.794434, Update Interval: 340.443726
+[2025.04.15-09.49.06:858][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.15-09.49.06:864][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.49.06:928][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Arms/Mesh/Mesh_Arms] ([1] browsable assets)...
+[2025.04.15-09.49.06:928][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Arms/Mesh/Mesh_Arms]
+[2025.04.15-09.49.06:928][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Arms/Mesh/Mesh_Arms" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Characters/Arms/Mesh/Mesh_Arms.uasset" SILENT=true
+[2025.04.15-09.49.06:960][679]LogSavePackage: Moving output files for package: /Game/Characters/Arms/Mesh/Mesh_Arms
+[2025.04.15-09.49.06:961][679]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/Mesh_ArmsF9B5FF084D0C86960CF24EBF9E5005E4.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Characters/Arms/Mesh/Mesh_Arms.uasset'
+[2025.04.15-09.49.06:962][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2025.04.15-09.49.06:962][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton]
+[2025.04.15-09.49.06:967][679]LogSavePackage: Moving output files for package: /Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton
+[2025.04.15-09.49.06:967][679]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/SK_Mannequin_Arms_Skeleton42E64DB342281107D7BC128F4874CA5A.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2025.04.15-09.49.06:976][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.345 ms (total: 1.21 sec)
+[2025.04.15-09.49.07:034][679]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.15-09.49.07:034][679]LogContentValidation: Enabled validators:
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.49.07:034][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.49.07:034][679]AssetCheck: /Game/Characters/Arms/Mesh/Mesh_Arms Validating asset
+[2025.04.15-09.49.07:034][679]AssetCheck: /Game/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton Validating asset
+[2025.04.15-09.50.57:559][741]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.50.57:611][741]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Mesh_Arms) ...
+[2025.04.15-09.50.57:729][741]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_SpecularSmoothness.T_01_clothes_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.57:740][741]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_SpecularSmoothness.T_01_gloves_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:178][755]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Albedo_Grey.T_01_hands_Albedo_Grey (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:331][760]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_Camo_clothes_AlbedoTransparency.T_01_Camo_clothes_AlbedoTransparency (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:332][760]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Camo_AlbedoTransparency.T_01_gloves_Camo_AlbedoTransparency (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:443][766]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_SpecularSmoothness.T_01_hands_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:615][773]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Normal.T_01_gloves_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.58:631][774]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_Normal.T_01_clothes_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.50.59:105][796]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Normal.T_01_hands_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.04.15-09.51.00:353][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.15-09.51.32:744][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.04.15-09.51.32:749][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.51.32:803][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Soldier_01] ([2] browsable assets)...
+[2025.04.15-09.51.32:811][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01]
+[2025.04.15-09.51.32:811][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.15-09.51.32:827][657]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/BP_Soldier_01.BP_Soldier_01_C]
+[2025.04.15-09.51.32:827][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Soldier_01]
+[2025.04.15-09.51.32:827][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Soldier_01" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset" SILENT=true
+[2025.04.15-09.51.32:835][657]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Soldier_01
+[2025.04.15-09.51.32:835][657]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/BP_Soldier_01553E49A94B61D63C0D3FE4A0A7367A35.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset'
+[2025.04.15-09.51.32:842][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.776 ms (total: 1.30 sec)
+[2025.04.15-09.51.32:903][657]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-09.51.32:903][657]LogContentValidation: Enabled validators:
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.51.32:903][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.51.32:903][657]AssetCheck: /Game/Blueprints/BP_Soldier_01 Validating asset
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Total job queries 515, among them cache hits 127 (24.66%), DDC hits 299 (58.06%), Duplicates 14 (2.72%)
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Tracking 374 distinct input hashes that result in 291 distinct outputs (77.81%)
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: RAM used: 166,08 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Shaders Compiled: 75
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Jobs assigned 75, completed 75 (100%)
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Average time worker was idle: 251.51 s
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 2.93 s
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Job execution time: average 1.69 s, max 3.37 s
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Job life time (pending + execution): average 2.07 s, max 3.92
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Shader code size: average 7,987 KiB, min 2,934 KiB, max 16,207 KiB
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.39 s
+[2025.04.15-09.52.20:122][511]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Jobs were issued in 75 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Total thread time: 52,28 s
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Total thread preprocess time: 8,068 s
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Percentage time preprocessing: 15.43%
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 1.19 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.75 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled   13 times, average 0.54 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.34% of total time (compiled   12 times, average 1.19 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.53% of total time (compiled   13 times, average 0.75 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.40% of total time (compiled   13 times, average 0.54 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.96% of total time (compiled   13 times, average 0.48 sec, max 0.70 sec, min 0.37 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.23% of total time (compiled   13 times, average 0.45 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Materials Translated:    224
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Material Total Translate Time: 1.57 s
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Material Translation Only: 0.32 s (20%)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.04.15-09.52.20:123][511]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.52.39:693][493]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.04.15-09.52.52:969][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2957.835205
+[2025.04.15-09.52.53:140][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.52.53:140][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2957.997314, Update Interval: 356.462280
+[2025.04.15-09.53.14:513][396]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.53.14:545][396]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_idle.Arms_idle (Required Memory Estimate: 4.13 MB)
+[2025.04.15-09.53.14:568][396]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Characters/Arms/Arms_Animations/Arms_idle.Arms_idle, at AnimationSequence/99cb3863fa5d10d5dd375f4af808f906a05a861d
+[2025.04.15-09.53.14:653][397]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.15-09.53.14:654][397]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body (0xE2D7E0783B859377) /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body (0xE2D7E0783B859377) - Skipping non mounted imported package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin__normals (0x6E3175FEC2BDF2D7)
+[2025.04.15-09.53.14:654][397]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body (0xE2D7E0783B859377) /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body (0xE2D7E0783B859377) - Skipping non mounted imported package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA (0xD88417C82D23564B)
+[2025.04.15-09.53.14:654][397]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO (0xFA6D91CDAC0902E3) /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO (0xFA6D91CDAC0902E3) - Skipping non mounted imported package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_LOGO_CARD (0xBA75FBAF6362B189)
+[2025.04.15-09.53.14:674][397]LogMaterial: Warning: [AssetLog] D:\PGiPW1_UE4_JuliaDuda_zadanie4\FPS\Content\Assets\Characters\Arms\Mesh\Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.15-09.53.14:691][397]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin__normals which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.53.14:691][397]LoadErrors: Warning: While trying to load package /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body, a dependent package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin__normals was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin__normals has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.53.14:691][397]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.53.14:691][397]LoadErrors: Warning: While trying to load package /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/M_UE4Man_Body, a dependent package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.53.14:691][397]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_LOGO_CARD which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.04.15-09.53.14:692][397]LoadErrors: Warning: While trying to load package /Game/Assets/Characters/Arms/Mesh/Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO, a dependent package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_LOGO_CARD was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/M4A4_Animated/FirstPerson/Character/Textures/UE4_LOGO_CARD has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/M4A4_Animated/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.04.15-09.53.14:730][401]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2025.04.15-09.53.14:915][419]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2025.04.15-09.53.14:915][419]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.04.15-09.53.14:915][419]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.04.15-09.53.15:989][514]LogSkeletalMesh: Built Skeletal Mesh [1.26s] /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2025.04.15-09.53.25:275][411]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.15-09.53.25:448][411]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.28:708][701]LogEditorTransaction: Undo Edit Anim to Play
+[2025.04.15-09.53.28:870][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.29:064][703]LogEditorTransaction: Undo Edit Animation Mode
+[2025.04.15-09.53.29:223][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.30:227][772]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.15-09.53.30:384][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.30:998][817]LogEditorTransaction: Undo Add Component
+[2025.04.15-09.53.31:161][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.31:994][885]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.15-09.53.32:149][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.34:074][ 70]LogEditorTransaction: Redo Modify Component(s)
+[2025.04.15-09.53.34:232][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.34:872][ 99]LogEditorTransaction: Redo Add Component
+[2025.04.15-09.53.35:041][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.53.35:788][155]LogEditorTransaction: Undo Add Component
+[2025.04.15-09.53.35:952][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.15-09.54.20:448][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.15-09.54.20:454][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.54.20:506][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Soldier_01] ([2] browsable assets)...
+[2025.04.15-09.54.20:515][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01]
+[2025.04.15-09.54.20:515][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Soldier_01]
+[2025.04.15-09.54.20:515][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Soldier_01" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset" SILENT=true
+[2025.04.15-09.54.20:522][655]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Soldier_01
+[2025.04.15-09.54.20:522][655]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/BP_Soldier_013D0E57DA40C26ED5657E8988A680F619.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset'
+[2025.04.15-09.54.20:529][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.467 ms (total: 1.38 sec)
+[2025.04.15-09.54.20:573][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-09.54.20:573][655]LogContentValidation: Enabled validators:
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.54.20:573][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.54.20:573][655]AssetCheck: /Game/Blueprints/BP_Soldier_01 Validating asset
+[2025.04.15-09.54.21:687][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.15-09.54.39:270][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Soldier_01.BP_Soldier_01_C
+[2025.04.15-09.54.39:270][287]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Soldier_01.BP_Soldier_01_C
+[2025.04.15-09.54.39:274][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01 as actor: BP_Soldier_01_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Soldier_01_C_0
+[2025.04.15-09.54.39:276][287]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01 as actor: BP_Soldier_01_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Soldier_01_C_0
+[2025.04.15-09.54.40:561][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.15-09.54.40:566][393]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.04.15-09.54.40:573][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Soldier_01.BP_Soldier_01_C
+[2025.04.15-09.54.40:573][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Soldier_01.BP_Soldier_01_C
+[2025.04.15-09.54.40:581][393]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01 as actor: BP_Soldier_01_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Soldier_01_C_1
+[2025.04.15-09.54.40:585][393]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01 as actor: BP_Soldier_01_C /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod:PersistentLevel.BP_Soldier_01_C_1
+[2025.04.15-09.54.41:004][396]LogPSOHitching: Encountered 100 PSO creation hitches so far (74 graphics, 26 compute). 0 of them were precached.
+[2025.04.15-09.54.46:685][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-09.54.46:800][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.15-09.54.46:800][719]LogPlayLevel: Creating play world package: /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.54.46:883][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082933s)
+[2025.04.15-09.54.46:883][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod to /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod (0.082968s)
+[2025.04.15-09.54.46:904][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.04.15-09.54.46:905][719]LogChaosDD: Creating Chaos Debug Draw Scene for world LowerSector_Mod
+[2025.04.15-09.54.46:907][719]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2025.04.15-09.54.46:909][719]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-09.54.46:909][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.15-09.54.46:909][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-09.54.46:909][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-09.54.46:909][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-09.54.46:909][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-09.54.46:911][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-09.54.46:938][719]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.04.15-09.54.46:938][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-09.54.46:938][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-09.54.46:938][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-09.54.46:938][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.15-09.54.46:938][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.15-09.54.46:941][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.15-09.54.46:941][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.15-09.54.46:941][719]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.15-09.54.46:941][719]LogAudio: Display: Audio Device (ID: 3) registered with world 'LowerSector_Mod'.
+[2025.04.15-09.54.46:941][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.15-09.54.46:944][719]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.15-09.54.46:986][719]LogWorld: Bringing World /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod up for play (max tick rate 0) at 2025.04.15-11.54.46
+[2025.04.15-09.54.47:002][719]LogWorld: Bringing up level for play took: 0.057687
+[2025.04.15-09.54.47:004][719]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.04.15-09.54.47:009][719]PIE: Server logged in
+[2025.04.15-09.54.47:011][719]PIE: Play in editor total start time 0,316 seconds.
+[2025.04.15-09.55.12:215][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.55.12:215][853]LogWorld: BeginTearingDown for /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.55.12:217][853]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-09.55.12:229][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.55.12:235][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-09.55.12:244][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.55.12:268][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.15-09.55.12:271][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.15-09.55.12:271][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.15-09.55.12:273][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.15-09.55.12:277][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.55.12:290][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.15-09.55.12:457][854]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Total job queries 524, among them cache hits 128 (24.43%), DDC hits 299 (57.06%), Duplicates 17 (3.24%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Tracking 379 distinct input hashes that result in 296 distinct outputs (78.10%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: RAM used: 167,64 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Shaders Compiled: 80
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Jobs assigned 80, completed 80 (100%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Average time worker was idle: 238.18 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 2.93 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 3.37 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Job life time (pending + execution): average 2.01 s, max 3.92
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Shader code size: average 8,177 KiB, min 2,934 KiB, max 16,207 KiB
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.93 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Average processing rate: 2.36 jobs/sec
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Total thread time: 55,939 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Total thread preprocess time: 8,19 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Percentage time preprocessing: 14.64%
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 1.18 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.75 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.66 sec, max 0.78 sec, min 0.56 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.39% of total time (compiled   13 times, average 1.18 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.32% of total time (compiled   13 times, average 0.75 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.52% of total time (compiled   13 times, average 0.54 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.18% of total time (compiled   13 times, average 0.48 sec, max 0.70 sec, min 0.37 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.50% of total time (compiled   13 times, average 0.45 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Materials Translated:    225
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Material Total Translate Time: 1.57 s
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Material Translation Only: 0.32 s (20%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.04.15-09.55.20:124][287]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.55.40:585][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-09.55.40:598][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.15-09.55.40:598][473]LogPlayLevel: Creating play world package: /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.55.40:681][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083225s)
+[2025.04.15-09.55.40:681][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod to /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod (0.083262s)
+[2025.04.15-09.55.40:703][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.15-09.55.40:705][473]LogChaosDD: Creating Chaos Debug Draw Scene for world LowerSector_Mod
+[2025.04.15-09.55.40:706][473]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2025.04.15-09.55.40:708][473]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-09.55.40:708][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.15-09.55.40:708][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-09.55.40:708][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-09.55.40:708][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-09.55.40:708][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-09.55.40:710][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-09.55.40:736][473]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.04.15-09.55.40:736][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-09.55.40:736][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-09.55.40:736][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-09.55.40:736][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.15-09.55.40:736][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.15-09.55.40:739][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.15-09.55.40:739][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.15-09.55.40:739][473]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.15-09.55.40:739][473]LogAudio: Display: Audio Device (ID: 4) registered with world 'LowerSector_Mod'.
+[2025.04.15-09.55.40:739][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.15-09.55.40:742][473]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.15-09.55.40:786][473]LogWorld: Bringing World /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod up for play (max tick rate 0) at 2025.04.15-11.55.40
+[2025.04.15-09.55.40:787][473]LogWorld: Bringing up level for play took: 0.045613
+[2025.04.15-09.55.40:790][473]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.04.15-09.55.40:793][473]PIE: Server logged in
+[2025.04.15-09.55.40:794][473]PIE: Play in editor total start time 0,197 seconds.
+[2025.04.15-09.55.46:586][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.55.46:586][955]LogWorld: BeginTearingDown for /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.55.46:587][955]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-09.55.46:597][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.55.46:604][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-09.55.46:611][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.55.46:634][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.55.46:639][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.15-09.55.46:639][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.15-09.55.46:641][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.15-09.55.46:660][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.15-09.55.46:837][956]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.04.15-09.55.54:777][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.15-09.55.58:024][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-09.55.58:036][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.15-09.55.58:036][824]LogPlayLevel: Creating play world package: /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.55.58:122][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086072s)
+[2025.04.15-09.55.58:123][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod to /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod (0.086108s)
+[2025.04.15-09.55.58:144][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.15-09.55.58:145][824]LogChaosDD: Creating Chaos Debug Draw Scene for world LowerSector_Mod
+[2025.04.15-09.55.58:147][824]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2025.04.15-09.55.58:148][824]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-09.55.58:148][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.15-09.55.58:148][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-09.55.58:148][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-09.55.58:148][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-09.55.58:148][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-09.55.58:151][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-09.55.58:176][824]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.04.15-09.55.58:176][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-09.55.58:176][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-09.55.58:176][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-09.55.58:177][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.04.15-09.55.58:177][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.04.15-09.55.58:180][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.04.15-09.55.58:180][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.04.15-09.55.58:180][824]LogInit: FAudioDevice initialized with ID 5.
+[2025.04.15-09.55.58:180][824]LogAudio: Display: Audio Device (ID: 5) registered with world 'LowerSector_Mod'.
+[2025.04.15-09.55.58:180][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.15-09.55.58:182][824]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.15-09.55.58:226][824]LogWorld: Bringing World /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod up for play (max tick rate 0) at 2025.04.15-11.55.58
+[2025.04.15-09.55.58:227][824]LogWorld: Bringing up level for play took: 0.044123
+[2025.04.15-09.55.58:229][824]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.04.15-09.55.58:233][824]PIE: Server logged in
+[2025.04.15-09.55.58:234][824]PIE: Play in editor total start time 0,198 seconds.
+[2025.04.15-09.56.03:385][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.56.03:385][249]LogWorld: BeginTearingDown for /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.56.03:386][249]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-09.56.03:398][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.56.03:404][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-09.56.03:411][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.56.03:433][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.15-09.56.03:437][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.04.15-09.56.03:437][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.15-09.56.03:439][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.04.15-09.56.03:443][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.56.03:456][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.15-09.56.03:633][250]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.04.15-09.56.12:358][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.15-09.56.14:309][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.15-09.56.14:321][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.15-09.56.14:321][ 57]LogPlayLevel: Creating play world package: /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.56.14:405][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084163s)
+[2025.04.15-09.56.14:405][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowerSector_Mod/Maps/LowerSector_Mod.LowerSector_Mod to /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod (0.084201s)
+[2025.04.15-09.56.14:427][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.15-09.56.14:428][ 57]LogChaosDD: Creating Chaos Debug Draw Scene for world LowerSector_Mod
+[2025.04.15-09.56.14:430][ 57]LogPlayLevel: PIE: World Init took: (0.001947s)
+[2025.04.15-09.56.14:431][ 57]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.15-09.56.14:431][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.15-09.56.14:431][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.15-09.56.14:431][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.15-09.56.14:431][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.15-09.56.14:431][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.15-09.56.14:433][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.15-09.56.14:459][ 57]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.04.15-09.56.14:459][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.15-09.56.14:459][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.15-09.56.14:459][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.15-09.56.14:460][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.04.15-09.56.14:460][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.04.15-09.56.14:462][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.04.15-09.56.14:462][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.04.15-09.56.14:462][ 57]LogInit: FAudioDevice initialized with ID 6.
+[2025.04.15-09.56.14:462][ 57]LogAudio: Display: Audio Device (ID: 6) registered with world 'LowerSector_Mod'.
+[2025.04.15-09.56.14:462][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.15-09.56.14:464][ 57]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.15-09.56.14:508][ 57]LogWorld: Bringing World /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod.LowerSector_Mod up for play (max tick rate 0) at 2025.04.15-11.56.14
+[2025.04.15-09.56.14:509][ 57]LogWorld: Bringing up level for play took: 0.044370
+[2025.04.15-09.56.14:512][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.04.15-09.56.14:516][ 57]PIE: Server logged in
+[2025.04.15-09.56.14:517][ 57]PIE: Play in editor total start time 0,196 seconds.
+[2025.04.15-09.56.20:715][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.56.20:715][566]LogWorld: BeginTearingDown for /Game/LowerSector_Mod/Maps/UEDPIE_0_LowerSector_Mod
+[2025.04.15-09.56.20:716][566]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-09.56.20:727][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.56.20:733][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.15-09.56.20:741][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-09.56.20:766][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.15-09.56.20:769][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.04.15-09.56.20:769][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.15-09.56.20:771][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.04.15-09.56.20:775][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.15-09.56.20:787][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.15-09.56.20:964][567]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.04.15-09.56.41:406][621]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.15-09.56.41:413][621]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.15-09.56.41:420][621]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.15-09.56.41:433][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.15-09.56.48:455][ 26]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Drone_01
+[2025.04.15-09.56.48:464][ 26]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.15-09.56.50:012][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Drone_01.BP_Drone_01
+[2025.04.15-09.56.50:012][117]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.15-09.58.13:592][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Total job queries 534, among them cache hits 128 (23.97%), DDC hits 299 (55.99%), Duplicates 17 (3.18%)
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Tracking 389 distinct input hashes that result in 302 distinct outputs (77.63%)
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: RAM used: 169,42 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Shaders Compiled: 90
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100%)
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Average time worker was idle: 258.44 s
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.93 s
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Job execution time: average 1.73 s, max 3.37 s
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Job life time (pending + execution): average 2.12 s, max 3.92
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Shader code size: average 8,161 KiB, min 2,934 KiB, max 16,207 KiB
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.64 s
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Jobs were issued in 90 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Average processing rate: 2.39 jobs/sec
+[2025.04.15-09.58.20:123][789]LogShaderCompilers: Display: Total thread time: 62,116 s
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Total thread preprocess time: 8,364 s
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Percentage time preprocessing: 13.47%
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.25 sec, max 1.53 sec, min 0.96 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.17 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.73 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.66 sec, max 0.78 sec, min 0.56 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.47% of total time (compiled   14 times, average 1.17 sec, max 1.48 sec, min 0.96 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.63% of total time (compiled   15 times, average 0.73 sec, max 0.95 sec, min 0.57 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.86% of total time (compiled   15 times, average 0.53 sec, max 0.72 sec, min 0.42 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.64% of total time (compiled   15 times, average 0.48 sec, max 0.70 sec, min 0.37 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.87% of total time (compiled   15 times, average 0.45 sec, max 0.56 sec, min 0.36 sec)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: === Material stats ===
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Materials Translated:    225
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Material Total Translate Time: 1.57 s
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Material Translation Only: 0.32 s (20%)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.04.15-09.58.20:124][789]LogShaderCompilers: Display: ================================================
+[2025.04.15-09.58.30:688][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.15-09.58.30:694][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-09.58.30:801][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.15-09.58.31:279][912]LogSavePackage: Moving output files for package: /Game/LowerSector_Mod/Maps/LowerSector_Mod
+[2025.04.15-09.58.31:279][912]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/LowerSector_Mod4ED1A867482A21D36623CD8250F97FE9.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/LowerSector_Mod/Maps/LowerSector_Mod.umap'
+[2025.04.15-09.58.31:304][912]LogFileHelpers: All files are already saved.
+[2025.04.15-09.58.31:304][912]LogFileHelpers: Saving map 'LowerSector_Mod' took 0.561
+[2025.04.15-09.58.31:304][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Soldier_01] ([2] browsable assets)...
+[2025.04.15-09.58.31:313][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Soldier_01.BP_Soldier_01]
+[2025.04.15-09.58.31:313][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Soldier_01]
+[2025.04.15-09.58.31:313][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Soldier_01" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset" SILENT=true
+[2025.04.15-09.58.31:322][912]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Soldier_01
+[2025.04.15-09.58.31:323][912]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/BP_Soldier_018E9653E2489696BFA998B5BF63984F90.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Soldier_01.uasset'
+[2025.04.15-09.58.31:324][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Drone_01] ([2] browsable assets)...
+[2025.04.15-09.58.31:332][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Drone_01.BP_Drone_01]
+[2025.04.15-09.58.31:332][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Drone_01]
+[2025.04.15-09.58.31:332][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Drone_01" FILE="../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Drone_01.uasset" SILENT=true
+[2025.04.15-09.58.31:339][912]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Drone_01
+[2025.04.15-09.58.31:339][912]LogSavePackage: Moving '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/BP_Drone_0175DBDBC34914153908EC599E15B293AB.tmp' to '../../../../../../../PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Content/Blueprints/BP_Drone_01.uasset'
+[2025.04.15-09.58.31:347][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 653.620 ms (total: 2.03 sec)
+[2025.04.15-09.58.31:409][912]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.15-09.58.31:409][912]LogContentValidation: Enabled validators:
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-09.58.31:409][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-09.58.31:410][912]AssetCheck: /Game/LowerSector_Mod/Maps/LowerSector_Mod Validating asset
+[2025.04.15-09.58.31:410][912]AssetCheck: /Game/Blueprints/BP_Soldier_01 Validating asset
+[2025.04.15-09.58.31:410][912]AssetCheck: /Game/Blueprints/BP_Drone_01 Validating asset
+[2025.04.15-09.58.42:387][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.15-09.58.44:866][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.15-09.59.18:400][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.15-09.59.23:241][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3348.103516
+[2025.04.15-09.59.24:240][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-09.59.24:240][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3348.769287, Update Interval: 330.733368
+[2025.04.15-10.00.02:660][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.15-10.00.04:505][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.15-10.00.04:582][902]LogStall: Shutdown...
+[2025.04.15-10.00.04:582][902]LogStall: Shutdown complete.
+[2025.04.15-10.00.04:640][902]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.04:640][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.04:866][902]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.04:866][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.04:911][902]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-10.00.04:911][902]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.04:911][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.04:998][902]LogSlate: Window 'FPS - Unreal Editor' being destroyed
+[2025.04.15-10.00.05:421][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.15-10.00.05:438][902]Cmd: QUIT_EDITOR
+[2025.04.15-10.00.05:438][903]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.15-10.00.05:448][903]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.15-10.00.05:449][903]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.15-10.00.05:449][903]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.15-10.00.05:467][903]LogWorld: UWorld::CleanupWorld for LowerSector_Mod, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:468][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:516][903]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.15-10.00.05:570][903]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.15-10.00.05:639][903]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:639][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:642][903]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:642][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:645][903]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:645][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:647][903]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:647][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:650][903]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:650][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:652][903]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:652][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:654][903]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:654][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:657][903]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:657][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:659][903]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:659][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:661][903]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:661][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:664][903]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:664][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:666][903]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:666][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:668][903]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:668][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:671][903]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:671][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:684][903]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:684][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:687][903]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-10.00.05:687][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-10.00.05:712][903]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.15-10.00.05:719][903]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.15-10.00.05:719][903]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.15-10.00.05:719][903]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.15-10.00.06:663][903]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.15-10.00.06:663][903]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.15-10.00.06:663][903]LogAudio: Display: Audio Device unregistered from world 'LowerSector_Mod'.
+[2025.04.15-10.00.06:663][903]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.15-10.00.06:663][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.15-10.00.06:665][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.15-10.00.06:678][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.15-10.00.06:678][903]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.15-10.00.06:679][903]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.15-10.00.06:679][903]LogExit: Preparing to exit.
+[2025.04.15-10.00.06:836][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.06:839][903]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.15-10.00.07:195][903]LogEditorDataStorage: Deinitializing
+[2025.04.15-10.00.07:524][903]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.15-10.00.07:652][903]LogExit: Editor shut down
+[2025.04.15-10.00.07:654][903]LogExit: Transaction tracking system shut down
+[2025.04.15-10.00.08:935][903]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 2.
+[2025.04.15-10.00.08:957][903]LogExit: Object subsystem successfully closed.
+[2025.04.15-10.00.09:067][903]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.15-10.00.10:055][903]LogMemoryProfiler: Shutdown
+[2025.04.15-10.00.10:056][903]LogNetworkingProfiler: Shutdown
+[2025.04.15-10.00.10:056][903]LoadingProfiler: Shutdown
+[2025.04.15-10.00.10:062][903]LogTimingProfiler: Shutdown
+[2025.04.15-10.00.10:183][903]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/baa3495e-551a-41a9-a552-47dd6be824a3.
+[2025.04.15-10.00.10:839][903]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.15-10.00.11:153][903]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.15-10.00.11:153][903]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2DEC75E8-4F3D-1C3C-1F03-02A421157ABB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=ea1cb7f24931df1c1d2240957bfc63ca%7C17c71abb5f2c45acbd9afed66c5d5561%7Cfe500e89-a00a-4772-8636-81c452087d72&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.15-10.00.11:760][903]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.04.15-10.00.11:761][903]RenderDocPlugin: plugin has been unloaded.
+[2025.04.15-10.00.11:776][903]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.15-10.00.11:776][903]LogNFORDenoise: NFORDenoise function shutting down
+[2025.04.15-10.00.11:798][903]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.04.15-10.00.11:836][903]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.04.15-10.00.11:836][903]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.04.15-10.00.11:836][903]LogPakFile: Destroying PakPlatformFile
+[2025.04.15-10.00.12:218][903]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.15-10.00.12:285][903]LogExit: Exiting.
+[2025.04.15-10.00.12:326][903]Log file closed, 04/15/25 12:00:12
