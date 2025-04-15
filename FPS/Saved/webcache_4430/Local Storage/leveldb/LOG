@@ -1,2 +1,3 @@
-2025/04/08-11:21:36.980 29e0 Creating DB D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/04/08-11:21:37.164 29e0 Reusing MANIFEST D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/15-11:04:12.985 5428 Reusing MANIFEST D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/04/15-11:04:12.987 5428 Recovering log #3
+2025/04/15-11:04:12.988 5428 Reusing old log D:/PGiPW1_UE4_JuliaDuda_zadanie4/FPS/Saved/webcache_4430\Local Storage\leveldb/000003.log 
